@@ -82,7 +82,7 @@
 
 初始化 `tronweb` 服务，需要指定其：`fullNode` && `solidityNode`。`15.207.144.3:8090` 为官方提供的服务，详情可参考：[https://cn.developers.tron.network/docs/networks#%E5%85%AC%E5%85%B1%E8%8A%82%E7%82%B9](https://cn.developers.tron.network/docs/networks#%E5%85%AC%E5%85%B1%E8%8A%82%E7%82%B9)
 
-其实初始化代码为：
+其中初始化代码为：
 
 ```javascript
 async function generateAccount() {
