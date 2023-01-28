@@ -33,7 +33,7 @@ async function main(config) {
   }
 
   timer = setInterval(async () => {
-    self.postMessage(['COUNT', count++]);
+    self.postMessage(['COUNT', 1]);
 
     account = await generateAccount();
     const address = account.address.base58;
