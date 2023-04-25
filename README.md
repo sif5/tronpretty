@@ -6,7 +6,7 @@
 
 ---
 
-<b>GPU 加速版本可前往：[https://github.com/GG4mida/profanity-tron](https://github.com/GG4mida/profanity-tron)
+<b> 🚀 GPU 加速版本可前往：[https://github.com/GG4mida/profanity-tron](https://github.com/GG4mida/profanity-tron) 🚀
 
 ---
 
